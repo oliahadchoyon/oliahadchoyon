@@ -8,7 +8,7 @@
 Passionate about technology, innovation, problem-solving, and building intelligent solutions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://choyon-portfolio-red.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oliahadchoyon)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%" />
 
@@ -65,7 +65,7 @@ I'm working toward building projects that demonstrate my skills in programming, 
 
 Explore more projects:
 
-[![Repositories](https://img.shields.io/badge/Explore-GitHub_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Explore-GitHub_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/oliahadchoyon?tab=repositories)
 
 
 ## 🌐 Connect With Me
@@ -74,9 +74,9 @@ Explore more projects:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel)](https://choyon-portfolio-red.vercel.app/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/oliahadchoyon)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL_ADDRESS)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:oli.choyon.1525@gmail.com)
 
 </div>
 
@@ -88,7 +88,7 @@ Explore more projects:
 
 **"Curiosity drives learning. Consistency builds expertise. Innovation creates impact."**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=oliahadchoyon&style=flat-square&color=blue" alt="Profile Views" />
 
 <br/>
 
