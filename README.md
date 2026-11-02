@@ -67,17 +67,6 @@ Explore more projects:
 
 [![Repositories](https://img.shields.io/badge/Explore-GitHub_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## 🌐 Connect With Me
 
